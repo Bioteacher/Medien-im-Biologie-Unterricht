@@ -1,3 +1,4 @@
 # Medien-im-Biologie-Unterricht
 
-Hier fiden sich die Hintergrundamterialien über das Thema Medieneinsatz im Biounterricht
+Hier finden sich die Hintergrundmaterialien über das Thema Medieneinsatz im Biounterricht. Sie stammen aus den Sitzungen am ttmmjj und ttmmjj.
+
